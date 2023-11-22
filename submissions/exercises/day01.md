@@ -17,7 +17,7 @@ _(just choose the questions you would like to answer and make it concise)_
     I think Lazada, because when you browse the website of Lazada it will show you all of its category. From Electronic Device to Automotives and Motorcycle.
 -   Identify any distractions or unnecessary elements that could potentially confuse users.<br/>
     Answer: For me, i find the win gadget game wheel in shopee distractive. Specially in the mobile application, we can click those elements while we are scrolling. 
-    ![Alt text](image.png)
+     ![Alt text](image.png)
 
 -   Compare the organization of content between the two platforms. Which between the two platforms’ content is easier to scan and understand?<br/>
     Answer: I think that Shopee is more organized. I find it easier to scan and understand. Maybe because I am more familiar with Shopee because I rarely checkout orders in Lazada. 
